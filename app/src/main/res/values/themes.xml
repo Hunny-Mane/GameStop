@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.GameStop" parent="Theme.Material3.Light.NoActionBar">
+    </style>
+
+    <style name="Theme.SplashScreen" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+</resources>
