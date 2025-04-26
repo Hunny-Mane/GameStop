@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_msg">Hello</string>
+    <string name="app_name">GameStop</string>
+
+    <string name="valorant">valorantee</string>
+    <string name="elden_ring">Elden Ringe</string>
+    <string name="witcher">Der Hexer</string>
+    <string name="legend">Liga der Legenden</string>
+</resources>

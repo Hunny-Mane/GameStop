@@ -1,0 +1,11 @@
+<resources>
+    <string name="welcome_msg">namaste</string>
+    <string name="app_name">GameStop</string>
+
+    <string name="valorant">वैलोरेंट</string>
+    <string name="elden_ring">एल्डन रिंग</string>
+    <string name="witcher">जादूगर</string>
+    <string name="legend">लीग ऑफ लेजेंड</string>
+
+
+</resources>

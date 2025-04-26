@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.GameStop" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/toolbarBackground</item>
+    </style>
+
+    <style name="Theme.SplashScreen" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/splashscr</item>
+    </style>
+</resources>

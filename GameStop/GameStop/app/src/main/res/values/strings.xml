@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_msg">Hello</string>
+    <string name="app_name">GameStop</string>
+    <string name="valorant">valorant</string>
+    <string name="elden_ring">Elden Ring</string>
+    <string name="witcher">The Witcher</string>
+    <string name="legend">League of Legends</string>
+    <string name="strike_price"><strike>$50.99</strike></string>
+    <string name="strike_price_1"><strike>$55.99</strike></string>
+    <string name="strike_price_2"><strike>$40.99</strike></string>
+    <string name="strike_price_3"><strike>$45.49</strike></string>
+    <string name="strike_price_4"><strike>$60.00</strike></string>
+    <string name="strike_price_5"><strike>$39.99</strike></string>
+    <string name="strike_price_6"><strike>$65.00</strike></string>
+    <string name="strike_price_7"><strike>$41.75</strike></string>
+    <string name="strike_price_8"><strike>$48.50</strike></string>
+    <string name="strike_price_9"><strike>$62.00</strike></string>
+    <string name="strike_price_10"><strike>$59.90</strike></string>
+    <string name="navigation_drawer_open">Open Navigation</string>
+    <string name="navigation_drawer_close">Close Navigation</string>
+    <string name="scroll_view">Scroll View</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Hindi</item>
+    </string-array>
+</resources>
